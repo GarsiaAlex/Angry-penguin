@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  angry penguin.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/LTCG"
+  Создание кода
+  Создание кода завершено
+  angry penguin.vcxproj -> C:\Users\GarsiaAlex\source\repos\Angry-penguin\angry penguin\angry penguin\bin\Debug\angry penguin.exe
